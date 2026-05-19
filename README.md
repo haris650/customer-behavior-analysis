@@ -16,9 +16,7 @@ This project analyzes customer behavior using Python, SQL, and Power BI.
 - Pandas
 - Matplotlib
 
-## Dashboard Preview
 
-![Dashboard](https://github.com/user-attachments/assets/xxxxx)
 
 ## Key Insights
 - Top revenue generating categories
