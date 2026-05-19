@@ -18,7 +18,7 @@ This project analyzes customer behavior using Python, SQL, and Power BI.
 
 ## Dashboard Preview
 
-![Dashboard](IMAGE_LINK_HERE)
+![Dashboard](https://github.com/user-attachments/assets/xxxxx)
 
 ## Key Insights
 - Top revenue generating categories
